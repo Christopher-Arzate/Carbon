@@ -10,4 +10,4 @@ I was in a 6-month COOP fellowship Program where they help first-generation coll
 - [**Excel**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/CAB_Carbon%20Emissions%20Data%20Set%20(1949%20–%202021).xlsx)
 - [**Page**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/One-Page%20Summary.pdf)
 - [**Powerpoint**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/Carbon_Emission_Presentation.pdf)
-- [**Tablue**](https://public.tableau.com/views/capstone_project_17309388390870/Lowest10AudienceTagsUsingCPA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [**Tablue**](https://public.tableau.com/views/carbon_emissions_17283162725740/CarbonEmissionsByContinents?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
