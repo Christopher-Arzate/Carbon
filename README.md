@@ -3,8 +3,7 @@ I was in a 6-month COOP fellowship Program where they help first-generation coll
 
 
 ## Charts
-<img style="display: block; margin: auto;" src="https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Dashboard_View_CPM.png">
-<img style="display: block; margin: auto;" src="https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Dashboard_CPC.png">
+<img style="display: block; margin: auto;" src="https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/Carbon%20Emissions%20By%20Continents%20.png">
 
 ## Files
 - [**Excel**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/CAB_Carbon%20Emissions%20Data%20Set%20(1949%20–%202021).xlsx)
