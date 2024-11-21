@@ -7,7 +7,7 @@ I was in a 6-month COOP fellowship Program where they help first-generation coll
 <img style="display: block; margin: auto;" src="https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Dashboard_CPC.png">
 
 ## Files
-- [**Excel**](https://github.com/Christopher-Arzate/Social_Media/blob/main/PBL_DA_FA24_CAPSTONE_DATA.csv)
-- [**Page**](https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Data%20Demons%20One%20Pager.pdf)
+- [**Excel**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/CAB_Carbon%20Emissions%20Data%20Set%20(1949%20–%202021).xlsx)
+- [**Page**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/One-Page%20Summary.pdf)
 - [**Powerpoint**](https://github.com/Christopher-Arzate/Carbon/blob/main/Carbon/Carbon_Emission_Presentation.pdf)
 - [**Tablue**](https://public.tableau.com/views/capstone_project_17309388390870/Lowest10AudienceTagsUsingCPA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
