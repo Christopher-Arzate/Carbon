@@ -1,5 +1,5 @@
 ## Background
-I was in a 6-month COOP fellowship Program where they help first-generation college graduate students with technical and job skills. I was a part of the Data Analytical track and was tasked to run a simulated analytical project. In this project, we were tasked to run an analysis on carbon emission data to see who were the main contributors of carbon and see if there are suggestions we can give to these countries
+I was in a 6-month COOP fellowship Program where they help first-generation college graduate students with technical and job skills. I was a part of the Data Analytical track and was tasked to run a simulated analytical project. In this project, we were tasked to run an analysis on carbon emission data to see who were the main contributors of carbon and see if there are suggestions we can give to these countries.
 
 
 ## Charts
